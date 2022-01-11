@@ -2,9 +2,9 @@
 javascript inventory system library
 <a href="https://simpleicons.org/"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>
 
-#example
+<h1>example</h1>
 
-#1.
+<h2>#1.</h2>
 ```js
 var inven = require("./invenjs.js")
 
@@ -19,3 +19,4 @@ test.set_count('add', "potion", 109);
 console.log(test.get_data_string());
 test.write();
 test.print();
+```
